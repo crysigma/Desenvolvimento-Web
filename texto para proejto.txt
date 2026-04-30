@@ -1,0 +1,12 @@
+imc : peso kg / altura (m)
+imc
+exercício para baixo do peso
+exerício para peso normal
+exercícios para acima do peso
+mostrar a biblioteca dos exercícios
+
+treino de perna
+braço
+peito
+triceps
+ombro
